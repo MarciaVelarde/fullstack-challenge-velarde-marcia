@@ -1,2 +1,3 @@
-# fullstack-challenge-velarde-marcia
-Challenge Módulo 2
+# Fullstack-challenge-velarde-marcia
+
+Challenge semanales del Módulo 2 del curso Full Stack Web Developer
